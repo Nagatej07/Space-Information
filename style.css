@@ -1,0 +1,229 @@
+body {
+    font-size: 15pt;
+}
+
+.type1{
+  height: 100px;
+}
+
+.type2{
+  height: 100px;
+  position: absolute;
+  padding-left: 30px;
+}
+
+.type3{
+  height: 100px;
+  position: absolute;
+  padding-left: 155px;
+}
+
+h1{
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  color: #EAEAEA;
+}
+
+p{
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  color: #D3DEDC;
+}
+
+h2{
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+  font-size:13pt;
+}
+
+.Stars{
+  font-size: 18pt;
+  padding-bottom: 100px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.Asteroids{
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.Planets{
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.type4{
+  height: 200px;
+  padding-left: 70px;
+}
+
+.type{
+  height: 200px;
+  padding-left: 70px;
+}
+
+.type6{
+  height: 200px;
+  padding-left: 70px
+}
+
+.type7{
+  width: 50%;
+  float: left;
+}
+
+
+.mercuryh1{
+  font-family: cursive;
+  color: black
+}
+
+
+.info1{
+  font-size: 8pt;
+}
+
+.type8{
+  width: 50%;
+  float: right;
+}
+
+.venush1{
+  font-size: 20pt;
+  color: black;
+  font-family: cursive;
+}
+.venusinfo2{
+  font-size: 6pt;
+}
+
+.type9{
+  width: 50%;
+  float: left
+}
+
+.earthh1{
+  font-size: 15pt;
+  font-family: cursive;
+  color: black;
+}
+
+.earthinfo3{
+  font-size: 6pt;
+}
+
+.type10{
+  width: 50%;
+  float: right;
+}
+
+.marsh1{
+  font-size: 15pt;
+  font-family: cursive;
+  color: black;
+}
+
+.marsinfo4{
+  font-size: 7pt;
+}
+
+.type11{
+  width: 50%;
+  float: left;
+}
+
+.jupiterh1{
+  font-size: 15pt;
+  font-family: cursive;
+  color: black;
+}
+
+.jupiterinfo5{
+  font-size: 6pt;
+}
+
+.type12{
+  width: 50%;
+  float: right;
+}
+
+.saturnh1{
+  font-size: 15pt;
+  font-family: cursive;
+  color: black;
+}
+
+.saturninfo6{
+  font-size: 6pt;
+}
+
+.type13{
+  width: 50%;
+  float: left;
+}
+
+.uranush1{
+  font-size: 15pt;
+  font-family: cursive;
+  color: black;
+}
+
+.uranusinfo7{
+  font-size: 6pt;
+}
+
+.type14{
+  width: 50%;
+  float: right;
+}
+
+.neptuneh1{
+  font-size: 15pt;
+  font-family: cursive;
+  color: black;
+}
+
+.neptuneinfo8{
+  font-size: 6pt;
+}
+
+.btn {
+  -moz-box-align: center;
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 10px 10px 10px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #ff98db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #ff98db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #ff98db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #ff98db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #ff98db);
+  text-decoration: none;
+}
+
+.oneb{
+  color: black;
+  
+}
+
+.copy{
+  font-size: 8pt;
+}
+
+
+.cn{
+  padding-left: 59px;
+  position: relative;
+}
